@@ -1,0 +1,59 @@
+[2019-10-15 18:03:39.367] [renderer20191015180332530] [error] Document not active: TypeError: Document not active
+    at t.setFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:38:75836)
+    at e.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1645872)
+    at t.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:6355817)
+    at t.run (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1591193)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:23:101901
+[2019-10-15 18:04:05.962] [renderer20191015180332530] [error] Failed to watch /home/chef/.vscode for changes (Error: ENOENT: no such file or directory, watch '/home/chef/.vscode', undefined)
+[2019-10-15 18:04:17.218] [renderer20191015180332530] [error] Document not active: TypeError: Document not active
+    at t.setFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:38:75836)
+    at e.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1645872)
+    at t.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:6355817)
+    at t.run (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1591193)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:23:101901
+[2019-10-15 18:04:21.270] [renderer20191015180332530] [error] Document not active: TypeError: Document not active
+    at t.setFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:38:75836)
+    at e.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1645872)
+    at t.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:6355817)
+    at t.run (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1591193)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:23:101901
+[2019-10-15 18:06:01.179] [renderer20191015180332530] [error] Document not active: TypeError: Document not active
+    at t.setFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:38:75836)
+    at e.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1645872)
+    at t.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:6355817)
+    at t.run (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1591193)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:23:101901
+[2019-10-15 18:06:02.548] [renderer20191015180332530] [error] Document not active: TypeError: Document not active
+    at t.setFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:38:75836)
+    at e.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1645872)
+    at t.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:6355817)
+    at t.run (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1591193)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:23:101901
+[2019-10-15 18:06:06.422] [renderer20191015180332530] [error] Document not active: TypeError: Document not active
+    at t.setFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:38:75836)
+    at e.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1645872)
+    at t.toggleFullScreen (https://3.81.162.66:8443/ide.main.92c1f4.js:60:6355817)
+    at t.run (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1591193)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:23:101901
+[2019-10-15 19:24:14.515] [renderer20191015180332530] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1889230)
+    at n.e.updateWidth (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1886046)
+    at e.updateWidth (https://3.81.162.66:8443/ide.main.92c1f4.js:67:1329530)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:67:1340566
+    at e.fire (https://3.81.162.66:8443/ide.main.92c1f4.js:16:14094)
+    at t.render (https://3.81.162.66:8443/ide.main.92c1f4.js:38:363083)
+    at t.notifyFileDecorationsChanges (https://3.81.162.66:8443/ide.main.92c1f4.js:38:360001)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:38:356925
+    at Array.forEach (<anonymous>)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:38:356896
+[2019-10-15 19:36:23.036] [renderer20191015180332530] [error] Data tree node not found: [object Object]: Error: Data tree node not found: [object Object]
+    at n.e.getDataNode (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1889230)
+    at n.e.updateWidth (https://3.81.162.66:8443/ide.main.92c1f4.js:60:1886046)
+    at e.updateWidth (https://3.81.162.66:8443/ide.main.92c1f4.js:67:1329530)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:67:1340566
+    at e.fire (https://3.81.162.66:8443/ide.main.92c1f4.js:16:14094)
+    at t.render (https://3.81.162.66:8443/ide.main.92c1f4.js:38:363083)
+    at t.notifyFileDecorationsChanges (https://3.81.162.66:8443/ide.main.92c1f4.js:38:360001)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:38:356925
+    at Array.forEach (<anonymous>)
+    at https://3.81.162.66:8443/ide.main.92c1f4.js:38:356896
